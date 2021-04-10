@@ -1,0 +1,40 @@
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\appsettings.json
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.exe
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.deps.json
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.runtimeconfig.json
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.runtimeconfig.dev.json
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.dll
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\ref\Azure DevOps Demo1.dll
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.pdb
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.Views.dll
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\bin\Debug\net5.0\Azure DevOps Demo1.Views.pdb
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.csprojAssemblyReference.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.AssemblyInfoInputs.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.AssemblyInfo.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.RazorAssemblyInfo.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.RazorAssemblyInfo.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\staticwebassets\Azure DevOps Demo1.StaticWebAssets.Manifest.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\staticwebassets\Azure DevOps Demo1.StaticWebAssets.xml
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\scopedcss\bundle\Azure DevOps Demo1.styles.css
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.TagHelpers.input.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.TagHelpers.output.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.RazorCoreGenerate.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.RazorTargetAssemblyInfo.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.RazorTargetAssemblyInfo.cs
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.Views.pdb
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.dll
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\ref\Azure DevOps Demo1.dll
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.pdb
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.genruntimeconfig.cache
+C:\Users\Alaa\source\repos\Azure DevOps Demo1\Azure DevOps Demo1\obj\Debug\net5.0\Azure DevOps Demo1.csproj.CopyComplete
